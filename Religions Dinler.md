@@ -1,4 +1,4 @@
-|KAZALAR|İslam|Katolik|Protestan|Ortodoks|Ermeni|Hıristiyan|Musevi|Sair dinler|Dinsiz veya dini meçhul|
+|KAZALAR Cazas|İslam _Musulmans_|Katolik _Catholiques_|Protestan _Protestants_|Ortodoks _Orthodoxes_|Ermeni _Arméniens_|Hıristiyan _Chrétiens_|Musevi _Israélites_|Sair dinler _Autres religions_|Dinsiz veya dini meçhul _Religion inconnue ou sans_|
 |-|-|-|-|-|-|-|-|-|-|
 |Aydın Merkez|11,943|11|5|13|0|6|0|0|0|
 |Aydın Merkez Köy|58,745|3|0|2|0|0|0|1|4|
