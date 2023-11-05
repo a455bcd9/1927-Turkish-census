@@ -1,6 +1,5 @@
-| | | | | | | | | | |
-|-|-|-|-|-|-|-|-|-|-|
 |KAZALAR|İslam|Katolik|Protestan|Ortodoks|Ermeni|Hıristiyan|Musevi|Sair Dinler|Dinsiz veya Dini Meçhul|
+|-|-|-|-|-|-|-|-|-|-|
 |Aydın Merkez|11,943|11|5|13|0|6|0|0|0|
 |Aydın Merkez Köy|58,745|3|0|2|0|0|0|1|4|
 |Bozdağan|27,185|0|0|0|0|0|0|0|0|
