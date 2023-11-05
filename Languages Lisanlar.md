@@ -1,4 +1,3 @@
-| | | | | | | | | | | | | | | | |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |KAZALAR|Türkçe|Rumca|Ermenice|Fransızca|İtalyanca|İngilizce|Arapça|Acemce|Yahudice|Çerkesçe|Kürtçe|Tatarca|Arnavutça|Bulgarca|Sair ve Meçhul Lisanlar|
 |Aydın Merkez|11,787|63|1|6|4|4|2|0|0|9|35|0|14|18|35|
