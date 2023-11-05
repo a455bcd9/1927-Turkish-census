@@ -1,4 +1,4 @@
-|KAZALAR _Cazas_|Türkçe _Turque_|Rumca _Grecque_|Ermenice _Arménienne_|Fransızca _Française_|İtalyanca _Italienne_|İngilizce _Anglaise_|Arapça _Arabe_|Acemce _Persanne_|Yahudice _Yudisch_|Çerkesçe _Circassienne_|Kürtçe _Kurde_|Tatarca _Tatare_|Arnavutça _Albanaise_|Bulgarca _Bulgare_|Sair ve meçhul lisanlar _Autres ou inconnues_|
+|KAZALAR Cazas|Türkçe _Turque_|Rumca _Grecque_|Ermenice _Arménienne_|Fransızca _Française_|İtalyanca _Italienne_|İngilizce _Anglaise_|Arapça _Arabe_|Acemce _Persanne_|Yahudice _Yudisch_|Çerkesçe _Circassienne_|Kürtçe _Kurde_|Tatarca _Tatare_|Arnavutça _Albanaise_|Bulgarca _Bulgare_|Sair ve meçhul lisanlar _Autres ou inconnues_|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |Aydın Merkez|11,787|63|1|6|4|4|2|0|0|9|35|0|14|18|35|
 |Aydın Merkez Köy|57,500|680|3|0|0|0|6|0|0|25|29|1|426|67|18|
